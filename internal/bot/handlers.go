@@ -7,9 +7,9 @@ import (
 
 	tgbotapi "github.com/go-telegram-bot-api/telegram-bot-api/v5"
 
-	"github.com/the-lx0980/wroxen-go/internal/search"
-	"github.com/the-lx0980/wroxen-go/internal/storage"
-	"github.com/the-lx0980/wroxen-go/internal/user"
+	"github.com/kalxbjidbbxu/wroxen-go/internal/search"
+	"github.com/kalxbjidbbxu/wroxen-go/internal/storage"
+	"github.com/kalxbjidbbxu/wroxen-go/internal/user"
 )
 
 var commandOrEmojiRe = regexp.MustCompile(`((^\/|^,|^!|^\.|^[\U0001F600-\U000E007F]).*)`)
