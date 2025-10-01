@@ -1,4 +1,4 @@
-module github.com/the-lx0980/wroxen-go
+module github.com/kalxbjidbbxu/wroxen-go
 
 go 1.21
 
