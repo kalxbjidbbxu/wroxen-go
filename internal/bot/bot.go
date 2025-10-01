@@ -5,8 +5,8 @@ import (
 
 	tgbotapi "github.com/go-telegram-bot-api/telegram-bot-api/v5"
 
-	"github.com/the-lx0980/wroxen-go/internal/config"
-	"github.com/the-lx0980/wroxen-go/internal/user"
+	"github.com/kalxbjidbbxu/wroxen-go/internal/config"
+	"github.com/kalxbjidbbxu/wroxen-go/internal/user"
 )
 
 type Wroxen struct {
