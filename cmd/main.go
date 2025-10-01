@@ -6,9 +6,9 @@ import (
 	"os/signal"
 	"syscall"
 
-	"github.com/yourusername/wroxen-go/internal/bot"
-	"github.com/yourusername/wroxen-go/internal/config"
-	"github.com/yourusername/wroxen-go/internal/user"
+	"github.com/kalxbjidbbxu/wroxen-go/internal/bot"
+	"github.com/kalxbjidbbxu/wroxen-go/internal/config"
+	"github.com/kalxbjidbbxu/wroxen-go/internal/user"
 )
 
 func main() {
