@@ -6,7 +6,7 @@ import (
 
 	tdlib "github.com/zelenin/go-tdlib/client"
 
-	"github.com/the-lx0980/wroxen-go/internal/config"
+	"github.com/kalxbjidbbxu/wroxen-go/internal/config"
 )
 
 // User wraps a TDLib client
